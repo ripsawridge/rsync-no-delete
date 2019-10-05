@@ -1,4 +1,4 @@
-box: ripsawridge/ruby-rsync
+box: debian:stable-slim
 build:
   steps:
     - shellcheck:
