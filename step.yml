@@ -1,0 +1,9 @@
+name: rsync-no-delete
+version: 0.1.0
+summary: Deploy your code to any server over ssh using rsync
+category: imported
+tags:
+- scp
+- ssh
+- rsync
+properties: []
